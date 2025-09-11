@@ -1,5 +1,5 @@
 {
-    "editor.inlayHints.enabled": flase,
+    "editor.inlayHints.enabled": f,
     "editor.inlayHints.fontFamily": "JetBrains Mono",
     "editor.inlayHints.fontSize": 12,
     "accessibility.signals.lineHasError": {
