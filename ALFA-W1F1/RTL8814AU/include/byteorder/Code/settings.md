@@ -1,0 +1,23 @@
+# settings.json
+
+**File:** `c:\Users\User\.vscode\Kali-Linux\.vscode\settings.json`
+
+```json
+{
+    "editor.inlayHints.enabled": true,
+    "editor.inlayHints.fontFamily": "JetBrains Mono",
+    "editor.inlayHints.fontSize": 12,
+    "accessibility.signals.lineHasError": {
+        "sound": "on"
+    },
+    "accessibility.signals.lineHasWarning": {
+        "sound": "on",
+        "announcement": "auto"
+    },
+    "accessibility.signals.lineHasInlineSuggestion": {
+        "sound": "on"
+    },
+    "workbench.statusBar.visible": true,
+    "autoGitCopilot.enabled": true
+}
+```
